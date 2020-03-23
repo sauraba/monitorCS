@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1fc482a-c96b-4170-bfcd-faa8a098b30c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZX7L9E2J6n8LRekPe4JqWyBFc6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration name="local_test_of_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="monitorCS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions/scripts" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/scripts/local_test_of_function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.local_test_of_function" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1fc482a-c96b-4170-bfcd-faa8a098b30c" name="Default Changelist" comment="" />
+      <created>1584973526514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584973526514</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584975621966">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1584975621966" />
+    <state x="523" y="373" key="Github.CreateGistDialog" timestamp="1584976934935">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="523" y="373" key="Github.CreateGistDialog/0.0.1440.900@0.0.1440.900" timestamp="1584976934935" />
+    <state width="1419" height="244" key="GridCell.Tab.0.bottom" timestamp="1584975989365">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584975989365" />
+    <state width="1379" height="199" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1584975154094" />
+    <state width="1419" height="244" key="GridCell.Tab.0.center" timestamp="1584975989363">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584975989363" />
+    <state width="1379" height="199" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1584975154093" />
+    <state width="1419" height="244" key="GridCell.Tab.0.left" timestamp="1584975989363">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584975989363" />
+    <state width="1379" height="199" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1584975154093" />
+    <state width="1419" height="244" key="GridCell.Tab.0.right" timestamp="1584975989364">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584975989364" />
+    <state width="1379" height="199" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1584975154094" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1584976905580">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1584976905580" />
+    <state x="397" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1584973558427">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="397" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1584973558427" />
+    <state x="378" y="70" width="683" height="729" key="find.popup" timestamp="1584973793769">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="378" y="70" width="683" height="729" key="find.popup/0.23.1440.823@0.23.1440.823" timestamp="1584973793769" />
+    <state x="427" y="321" key="git4idea.rebase.GitRebaseDialog" timestamp="1584976530328">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="427" y="321" key="git4idea.rebase.GitRebaseDialog/0.0.1440.900@0.0.1440.900" timestamp="1584976530328" />
+  </component>
+</project>
