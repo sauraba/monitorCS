@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1fc482a-c96b-4170-bfcd-faa8a098b30c" name="Default Changelist" comment="4th push">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="f1fc482a-c96b-4170-bfcd-faa8a098b30c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,24 +121,32 @@
       <option name="project" value="LOCAL" />
       <updated>1584978205643</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="5th push">
+      <created>1584988237612</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584988237612</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="3rd push" />
     <MESSAGE value="4th push" />
-    <option name="LAST_COMMIT_MESSAGE" value="4th push" />
+    <MESSAGE value="5th push" />
+    <option name="LAST_COMMIT_MESSAGE" value="5th push" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584975621966">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1584975621966" />
-    <state x="150" y="52" key="CommitChangelistDialog2" timestamp="1584988167402">
+    <state x="150" y="52" key="CommitChangelistDialog2" timestamp="1584988237402">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="150" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1584988167402" />
+    <state x="150" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1584988237402" />
     <state x="523" y="373" key="Github.CreateGistDialog" timestamp="1584986726786">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -168,10 +175,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1584978058841" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1584978212481">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1584988335964">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1584978212481" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1584988335964" />
     <state x="422" y="191" key="VcsDiffUtil.ChangesDialog" timestamp="1584987888359">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
