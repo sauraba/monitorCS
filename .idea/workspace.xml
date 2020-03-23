@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1fc482a-c96b-4170-bfcd-faa8a098b30c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/monitorCS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/monitorCS.iml" afterDir="false" />
+    <list default="true" id="f1fc482a-c96b-4170-bfcd-faa8a098b30c" name="Default Changelist" comment="4th push">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +43,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.register_my_custom_function">
     <configuration name="local_test_of_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="monitorCS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,8 +65,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="register_my_custom_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="monitorCS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/scripts/register_my_custom_function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.local_test_of_function" />
+      <item itemvalue="Python.register_my_custom_function" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.register_my_custom_function" />
         <item itemvalue="Python.local_test_of_function" />
       </list>
     </recent_temporary>
@@ -90,54 +115,67 @@
       <option name="project" value="LOCAL" />
       <updated>1584977745931</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="4th push">
+      <created>1584978205643</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584978205643</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="3rd push" />
-    <option name="LAST_COMMIT_MESSAGE" value="3rd push" />
+    <MESSAGE value="4th push" />
+    <option name="LAST_COMMIT_MESSAGE" value="4th push" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584975621966">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1584975621966" />
-    <state x="150" y="52" key="CommitChangelistDialog2" timestamp="1584977736445">
+    <state x="150" y="52" key="CommitChangelistDialog2" timestamp="1584988167402">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="150" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1584977736445" />
-    <state x="523" y="373" key="Github.CreateGistDialog" timestamp="1584976934935">
+    <state x="150" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1584988167402" />
+    <state x="523" y="373" key="Github.CreateGistDialog" timestamp="1584986726786">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="523" y="373" key="Github.CreateGistDialog/0.0.1440.900@0.0.1440.900" timestamp="1584976934935" />
-    <state width="1419" height="244" key="GridCell.Tab.0.bottom" timestamp="1584978143583">
+    <state x="523" y="373" key="Github.CreateGistDialog/0.0.1440.900@0.0.1440.900" timestamp="1584986726786" />
+    <state width="1419" height="244" key="GridCell.Tab.0.bottom" timestamp="1584987977686">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584978143583" />
+    <state width="1419" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584987977686" />
     <state width="1379" height="199" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1584975154094" />
-    <state width="1419" height="244" key="GridCell.Tab.0.center" timestamp="1584978143582">
+    <state width="1419" height="244" key="GridCell.Tab.0.center" timestamp="1584987977684">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584978143582" />
+    <state width="1419" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584987977684" />
     <state width="1379" height="199" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1584975154093" />
-    <state width="1419" height="244" key="GridCell.Tab.0.left" timestamp="1584978143581">
+    <state width="1419" height="244" key="GridCell.Tab.0.left" timestamp="1584987977684">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584978143581" />
+    <state width="1419" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584987977684" />
     <state width="1379" height="199" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1584975154093" />
-    <state width="1419" height="244" key="GridCell.Tab.0.right" timestamp="1584978143583">
+    <state width="1419" height="244" key="GridCell.Tab.0.right" timestamp="1584987977685">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584978143583" />
+    <state width="1419" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584987977685" />
     <state width="1379" height="199" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1584975154094" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1584978058841">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1584978058841" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1584978183439">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1584978212481">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1584978183439" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1584978212481" />
+    <state x="422" y="191" key="VcsDiffUtil.ChangesDialog" timestamp="1584987888359">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="422" y="191" key="VcsDiffUtil.ChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1584987888359" />
     <state x="397" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1584973558427">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
@@ -146,6 +184,10 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="378" y="70" width="683" height="729" key="find.popup/0.23.1440.823@0.23.1440.823" timestamp="1584973793769" />
+    <state x="456" y="248" key="git4idea.merge.GitMergeDialog" timestamp="1584987916400">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="456" y="248" key="git4idea.merge.GitMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1584987916400" />
     <state x="427" y="321" key="git4idea.rebase.GitRebaseDialog" timestamp="1584976530328">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
