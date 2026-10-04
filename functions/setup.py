@@ -14,7 +14,7 @@ setup(
         'scikit-learn==1.5.0',
         'scipy>=1.1.0',
         'requests==2.33.0',
-        'urllib3==1.22',
+        'urllib3==2.8.0',
         'ibm_db==3.0.1',
         'ibm_db_sa==0.3.3',
         'lxml==6.1.0',
